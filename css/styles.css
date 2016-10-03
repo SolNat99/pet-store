@@ -1,4 +1,41 @@
-.container
+.jumbotron
 {
-  background-image:url("../images/hero.png");
+  background-image: url(../img/hero.jpg);
+  background-size: cover;
+  background-position: center;
+  height:30em;
+  padding-top: 5em;
+  text-align: center;
+  color: white;
+}
+
+.row2
+{
+  text-align: center;
+}
+
+
+.alert-info
+{
+  padding: 1.5em;
+}
+
+.panel-footer
+{
+  background-color:black;
+  color:#ccc;
+  margin-top: 5em;
+}
+
+.border
+{
+  border-style: none none none solid;
+  border-width: 1px;
+  border-color:gray;
+  padding-left: 2em;
+}
+
+.navbar-brand
+{
+  font-family: glyphicons-halflings-regualr.ttf, glyphicons-halfings-regular.woff, glyphicons-halfings-regular.woff2;
 }
