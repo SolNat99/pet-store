@@ -12,12 +12,15 @@
 .row2
 {
   text-align: center;
+
 }
 
 
 .alert-info
 {
   padding: 1.5em;
+  border-radius: 1em;
+
 }
 
 .panel-footer
@@ -35,7 +38,14 @@
   padding-left: 2em;
 }
 
-.navbar-brand
+#name
 {
-  font-family: glyphicons-halflings-regualr.ttf, glyphicons-halfings-regular.woff, glyphicons-halfings-regular.woff2;
+  font-family: 'Satisfy', cursive;
+  color:#F47F60;
+  font-size: 30px;
+}
+
+.primary
+{
+  color:blue;
 }
